@@ -11,9 +11,9 @@ a) If there are price differences between the airlines.
 
 b) Difference in purchase prices of tickets based on time before depature.
 
-c) If the ticket price changes based on the depature and arrival time. 
+c) If the ticket price changes based on the depature and arrival time of the flight. 
 
-d) Changes in price based on the origin and destination of the flight.
+d) Changes in prices based on the duration of the flight.
 
 e) The price difference between Economy and Business class.
 

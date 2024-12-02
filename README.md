@@ -1,4 +1,4 @@
-# Flight-Price-Prediction
+# Flight-Price-Visualization 
 This Project is to explore the uses of EDA for tracking flight prices and how to present them
 
 ### About this Dataset

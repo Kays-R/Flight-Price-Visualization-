@@ -17,7 +17,7 @@ d) Changes in prices based on the duration of the flight.
 
 e) The price difference between Economy and Business class.
 
-The created graphs will help with analysis of data, this helps making better business decisions
+The created graphs will help with analysis of data, this helps making better business decisions which helps increase profits
 
 ### Dataset:
 Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.

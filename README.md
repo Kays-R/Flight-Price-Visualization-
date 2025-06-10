@@ -1,5 +1,5 @@
 # Flight-Price-Visualization 
-This Project is to explore the uses of EDA for tracking flight prices and how to present them to obtain
+This Project is to explore the uses of EDA for tracking flight prices and how to present them to obtain insights to 
 
 ### About this Dataset
 **Dataset** - Flight Price Details from kaggle (https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?resource=download)

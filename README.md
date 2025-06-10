@@ -2,7 +2,7 @@
 This Project is to explore the uses of EDA for tracking flight prices and how to present them
 
 ### About this Dataset
-Dataset - Flight Price Details from kaggle (https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?resource=download)
+**Dataset** - Flight Price Details from kaggle (https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction?resource=download)
 
 ### Introduction:
 The objective of the study is to analyse to get meaningful information for the following questions such as.
